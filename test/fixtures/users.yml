@@ -9,3 +9,9 @@ lariosto:
  last_name: "Ariosto"
  email: "lariosto@casadeste.com"
  profile_name: "lariosto"
+
+cgcesare:
+ first_name: "Caio Giulio"
+ last_name: "Cesare"
+ email: "cgcesare@repubblica.rm"
+ profile_name: "cgcesare"
